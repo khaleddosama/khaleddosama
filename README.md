@@ -22,6 +22,8 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -34,7 +36,7 @@
 class About extends Me {
   const myTools = {
     "Languages"    : { "PHP", "Java", "Python", "C", "C++" },
-    "Web"          : { "HTML", "CSS", "PHP MVC" },
+    "Web"          : { "HTML", "CSS", "JavaScript", "PHP MVC" },
     "Database"     : { "MySQL", "SQL Server", "ERD", "Normalization" },
     "DataAnalysis" : { "Pandas", "NumPy", "Matplotlib", "Cognos", "Excel" },
     "Networking"   : { "VLANs", "VPN", "NAT", "Cisco Packet Tracer" },
