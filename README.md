@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="38%"/><br><br>
 
 <h1> Khaled Osama </h1>
-<h3>CS Student | Backend & Networking | PHP • MySQL • Cisco</h3>
+<h3>.NET Full Stack Trainee @DEPI | Ex-GenAI Intern @CIB | IBM Data Analytics Graduate | Computer Science Student at Helwan University</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-khaledd--osamaa-blue?style=flat&logo=linkedin)](https://linkedin.com/in/khaledd-osamaa)
 [![Instagram](https://img.shields.io/badge/Instagram-khaledosama__25-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/khaledosama_25)
